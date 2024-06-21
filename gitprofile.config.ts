@@ -31,7 +31,6 @@ const CONFIG = {
     external: {
       header: '',
       // To hide the `External Projects` section, keep it empty.
-
     },
   },
   seo: {
@@ -62,40 +61,13 @@ const CONFIG = {
     email: 'admin@grimtech.co.uk',
   },
   resume: {
-    fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-
-  ],
-  experiences: [
-    {
-    },
-    {
-
-    },
-  ],
-  certifications: [
-    {
-
-    },
-  ],
-  educations: [
-    {
-
-    },
-    {
-
-    },
-  ],
-  publications: [
-    {
-     
-    },
-    {
-     
-    },
-  ],
+  skills: [],
+  experiences: [{}, {}],
+  certifications: [{}],
+  educations: [{}, {}],
+  publications: [{}, {}],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
