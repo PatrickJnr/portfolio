@@ -24,7 +24,6 @@ const config = {
     email: 'admin@grimtech.co.uk',
   },
 
- 
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
