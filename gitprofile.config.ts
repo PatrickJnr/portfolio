@@ -33,7 +33,7 @@ const CONFIG = {
   social: {
     linkedin: 'patrickjrc',
     x: '_patrickjnr',
-    mastodon: 'PatrickJr@tonybark.com',
+    mastodon: 'PatrickJr@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
